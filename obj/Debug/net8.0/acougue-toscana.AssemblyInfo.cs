@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("acougue-toscana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8de1a007da980dabea1118efc9fd96cd8590ea8")]
 [assembly: System.Reflection.AssemblyProductAttribute("acougue-toscana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("acougue-toscana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
